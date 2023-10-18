@@ -70,3 +70,14 @@ section {
     padding-left: 2rem;
     font-style: italic;
 }
+
+.assessed-fees {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.assessed-fees-container {
+    border:1px solid black;
+    width: 500px;
+}
