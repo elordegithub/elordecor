@@ -122,3 +122,14 @@ section {
     border: 1px solid black; 
     padding: 5px; 
 }
+
+.rules-on-refund-container {
+    text-align: center;
+}
+
+.rules-on-refund-container p {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: large;
+    font-style: italic;
+}
