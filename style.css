@@ -59,3 +59,8 @@ section {
     border-bottom: 1px solid black;
     background-color: #ffe9cc;
 }
+
+.subjects-general-info {
+    width: 100%;
+    justify-content: space-evenly;
+}
