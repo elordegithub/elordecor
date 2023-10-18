@@ -156,3 +156,20 @@ section {
     text-align: center;
     padding-left: 550px;
 }
+
+footer {
+    margin-top: 10rem;
+    align-items: center;
+}
+  
+footer p {
+    text-align: end;
+}
+  
+footer div {    
+    background-color: #ffe9cc;
+    border-top: solid 2px black;
+    text-align: center;
+    padding: 0.1rem;
+    color: #211414;
+}
