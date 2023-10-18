@@ -81,3 +81,44 @@ section {
     border:1px solid black;
     width: 500px;
 }
+
+.assessed-fees-header {
+    text-align: center;
+    background-color: #ffe9cc;
+    border-bottom: 1px solid black;
+}
+
+.assessed-fees-info {
+    text-align: justify;
+}
+
+.cell-gap {
+    padding-right: 30px;
+}
+
+.ts1, .ts2, .ts3 {
+    width: 100%;
+    text-align: left;
+}
+
+.total-assessment, .total-payment, .outstanding-balance {
+    border-top: 1px solid black;
+}
+
+.sched-of-payment {
+    text-align: center;
+    background-color: #ffe9cc;
+    border: 1px solid black;
+    border-top: 2px solid black;
+}
+
+.sched-of-payment-info {
+    width: 100%;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+
+.sched-of-payment-info td {
+    border: 1px solid black; 
+    padding: 5px; 
+}
