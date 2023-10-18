@@ -27,3 +27,27 @@ header {
 .logo-container img {
     max-width: 100px;
 }
+
+.registration-num h4 span {
+    color: red;
+}
+
+main {
+    border:1px solid black;
+    min-height: 100vh;
+}
+  
+section {
+    padding-bottom: 1rem;
+}
+
+.general-info-header-1 {
+    background-color: #ffe9cc;
+    text-align: center;
+    padding: 0.3rem;
+    border-bottom: 1px solid black;
+}
+
+.stud-general-information {
+    width: 100%;
+}
