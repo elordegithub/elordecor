@@ -64,3 +64,9 @@ section {
     width: 100%;
     justify-content: space-evenly;
 }
+
+.note {
+    margin-top: 50px;
+    padding-left: 2rem;
+    font-style: italic;
+}
