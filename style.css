@@ -133,3 +133,26 @@ section {
     font-size: large;
     font-style: italic;
 }
+
+.official-reciept-header {
+    text-align: left;
+    margin-top: 150px;
+}
+
+.official-reciept-header p {
+    text-align: right;
+}
+
+.official-reciept-header h4 span {
+    color: white;
+}
+
+.approved-by {
+    text-align: center;
+    padding-left: 250px;
+}
+
+.approved-by-info {
+    text-align: center;
+    padding-left: 550px;
+}
